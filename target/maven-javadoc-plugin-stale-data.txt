@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/fsd/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar:/home/fsd/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/fsd/NetBeansProjects/cosmetic_pro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cosmetic_pro 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/fsd/NetBeansProjects/cosmetic_pro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'cosmetic_pro 1.0-SNAPSHOT API'
+com.mycompany.cosmetic_pro
+/home/fsd/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar = 1665701471000
+/home/fsd/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar = 1643389948000
+/home/fsd/NetBeansProjects/cosmetic_pro/src/main/java = 1739104534297
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/element-list = 1739179377889
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/serialized-form.html = 1739179378019
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/overview-tree.html = 1739179378052
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/allclasses-index.html = 1739179378072
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/allpackages-index.html = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/module-search-index.js = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/package-search-index.js = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/type-search-index.js = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/member-search-index.js = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/tag-search-index.js = 1739179378076
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/index-all.html = 1739179378096
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/search.html = 1739179378099
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/index.html = 1739179378099
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/help-doc.html = 1739179378109
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/stylesheet.css = 1739179378109
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/script.js = 1739179378109
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/copy.svg = 1739179378109
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/link.svg = 1739179378112
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/search.js = 1739179378112
+/home/fsd/NetBeansProjects/cosmetic_pro/target/reports/apidocs/search-page.js = 1739179378112
